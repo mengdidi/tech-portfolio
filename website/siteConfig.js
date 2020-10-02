@@ -12,7 +12,7 @@
 const users = [];
 
 const siteConfig = {
-    title: 'Rosemary Wang', // Title for your website.
+    title: 'Mengdi Li', // Title for your website.
     tagline: 'I am facilitating a workshop for vGHC20!',
     profilePhoto: 'img/profile.png',
     url: 'https://rosemary-at-ghc.github.io', // Your website URL
@@ -23,7 +23,7 @@ const siteConfig = {
 
     // Used for publishing and more
     projectName: 'tech-portfolio',
-    organizationName: 'rosemary-at-ghc',
+    organizationName: 'mengdidi',
     // For top-level user or org sites, the organization is still the same.
     // e.g., for the https://JoelMarcey.github.io site, it would be set like...
     //   organizationName: 'JoelMarcey'
@@ -67,9 +67,9 @@ const siteConfig = {
     enableUpdateTime: true,
 
     socialMedia: {
-        linkedin: 'rosemarywang',
-        twitter: 'joatmon08',
-        github: 'rosemary-at-ghc',
+        linkedin: 'mengdi-li-95759399',
+        twitter: '',
+        github: 'mengdidi',
     },
 
     // You may provide arbitrary config keys to be used as needed by your
